@@ -1,0 +1,6 @@
+{
+  "name": "Nasir Digital Hub",
+  "description": "Nasir Digital Hub - Premium Digital Products & Services E-commerce Marketplace in Bangladesh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
